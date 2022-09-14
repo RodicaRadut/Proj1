@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDwIQpSOy9NNcbXiFtgGOO282kgHPJLlUAaoBZzd1NKUCwNuid57NfJoGf7VkN120aa1tygLXuFA0sehI0+BzA==",
+  "success": true,
+  "projectFilePath": "C:\\Surse\\VSTest\\Proj1\\TestSolution\\TestSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodicar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
